@@ -1,0 +1,23 @@
+{
+  "name": "onelog-db",
+  "version": "1.0.0",
+  "description": "An open-source Node.js ORM for MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Simplebase"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-aidoo/simplebase.git"
+  },
+  "homepage": "https://github.com/eric-aidoo/simplebase#readme",
+  "author": "Eric Aidoo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.2"
+  }
+}
